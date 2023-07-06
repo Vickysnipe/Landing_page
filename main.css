@@ -1,0 +1,90 @@
+body {
+    background-color:azure;
+    background-image: url(image/image3.png)
+}
+
+
+.header{
+    color:black;
+    font-style:normal;
+    font-size: 200%;
+    text-align: center;
+    background-image: url(); 
+    width: 1400px; 
+    height: 500px;
+    text-shadow: 10px 10px 10px #666;
+
+}
+nav{
+    text-align: right;
+    text-shadow: 2px 2px 2px #666;
+    color: blueviolet;
+    font-size:30px;
+
+}
+p{
+    color:brown;
+    font-size: 40px;
+    font-style:italic;
+    text-shadow: 2px 2px 2px #333;
+}
+
+
+
+
+h2{
+    color:aqua;
+    font-style: oblique;
+    text-align: center;
+    
+}
+
+#p2{
+    font-size: 70%;
+    font-style: italic;
+    color:cornflowerblue;
+    border: 1.5px solid black;
+    margin: 10px;
+    padding: 20px;
+    position:relative;
+    right:-400px;
+    overflow-wrap: break-word;
+    text-align: left;
+    box-shadow: 10px 10px 25px 2px #333;
+    max-width: 400px;
+    
+}
+#p3{
+    font-size: 70%;
+    font-style: italic;
+    text-align:center;
+    color:cornflowerblue;
+    border: 1.5px solid black;
+    margin:10px;
+    padding: 20px;
+    overflow-wrap: break-word;
+    position: relative;
+    right: -900px;
+    max-width: 400px;
+    overflow-wrap: break-word;
+    box-shadow: 10px 10px 25px 2px #333;
+
+    
+}
+
+#p4{
+    font-size: 70%;
+    font-style:italic;
+    color:cornflowerblue;
+    text-align:left;
+    border: 1.5px solid black;
+    margin:10px;
+    padding: 20px;
+    overflow-wrap: break-word;
+    position:relative;
+    right:-100px;
+    max-width: 400px;
+    box-shadow: 10px 10px 25px 2px #333;
+
+}
+
