@@ -2,8 +2,8 @@ body {
     background-color:black;
     background-image: url(image/guessing\ image2.jpg);
     margin: 0;
-    width: 100vw;
-    height: 100vh;
+    max-width: fit-content;
+    max-height: fit-content;
 }
 
 
